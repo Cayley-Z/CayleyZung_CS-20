@@ -1,22 +1,27 @@
 
 /*
 
-Program: ????.java          Last Date of this Revision: September 30, 2019
+Program: MyInitials.java          Last Date of this Revision: September 12, 2022
 
-Purpose: An application that uses nested for loops to output a table that diplays number in 
- multiples of ten.
+Purpose: Just printing my name, some great introductory stuff.
 
-Author: Your Name, 
+Author: Cayley Zung, 
 School: CHHS
-Course: Computer Programming ??
+Course: Computer Programming 20
  
 
 */
 public class MyInitials {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("C E Z");
 
 	}
 
 }
+/* Screen Dump
+
+C E Z
+ 
+ */
