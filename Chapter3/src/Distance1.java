@@ -1,7 +1,7 @@
 
 /*
 
-Program: RectanglePerimeter.java          Last Date of this Revision: September 13, 2022
+Program: Distance1.java          Last Date of this Revision: September 13, 2022
 
 Purpose: Outputs total distance of a race
 
@@ -19,8 +19,9 @@ public class Distance1 {
 		double First = 12.2;
 		double Sec = 10.6;
 		double Third = 5.8;
+		double distance = First + Sec + Third;
 		
-		System.out.println("The length of the race is" + First + Sec + Third + "km long.");
+		System.out.println("The length of the race is" + distance + "km long.");
 
 	}
 
