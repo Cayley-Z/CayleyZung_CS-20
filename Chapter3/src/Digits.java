@@ -22,8 +22,8 @@ public class Digits {
 		int n;
 		
 		System.out.println("Please input a whole, 2 digit number: ");
-		
 		n = input.nextInt();
+		
 		int ones = n % 10;
 		int tens = (n - ones) / 10;
 		
