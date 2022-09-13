@@ -11,7 +11,7 @@ Course: Computer Programming 20
  
 
 */
-public class RectanglePerimeter {
+public class Distance1 {
 
 	public static void main(String[] args) {
 		
