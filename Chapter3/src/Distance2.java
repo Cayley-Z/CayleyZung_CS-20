@@ -29,9 +29,10 @@ public class Distance2 {
 		sec = input.nextInt();
 		System.out.println("Input a whole number distance for the third segment (in km):");
 		third = input.nextInt();
+		
 		int distance = first + sec + third;
 		
-		System.out.println("the distance of your race is " + distance + " km long.");
+		System.out.println("The distance of your race is " + distance + " km long.");
 
 	}
 
