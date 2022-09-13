@@ -21,7 +21,7 @@ public class Distance1 {
 		double Third = 5.8;
 		double distance = First + Sec + Third;
 		
-		System.out.println("The length of the race is" + distance + "km long.");
+		System.out.println("The length of the race is " + distance + " km long.");
 
 	}
 
