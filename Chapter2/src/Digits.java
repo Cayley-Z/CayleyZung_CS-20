@@ -1,4 +1,4 @@
-package SkillBuilding;
+
 
 /*
 
@@ -38,13 +38,13 @@ public class Digits {
 
 /* Screen Dump
 
-	DIGITS PROGRAM
+DIGITS PROGRAM
 	
-	-----------------------------------------
-	Please input a WHOLE, 2 DIGIT NUMBER: 
+-----------------------------------------
+Please input a WHOLE, 2 DIGIT NUMBER: 
 	
-	43
+43
 	
-	The number in the ONES digit is 3, and the number in the TENS digit is 4.
+The number in the ONES digit is 3, and the number in the TENS digit is 4.
 
  */
