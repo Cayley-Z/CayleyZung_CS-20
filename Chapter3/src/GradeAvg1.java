@@ -1,9 +1,9 @@
 
 /*
 
-Program: GradeAvg1.java          Last Date of this Revision: September 13, 2022
+Program: GradeAvg1.java          Last Date of this Revision: September 14, 2022
 
-Purpose: 
+Purpose: Calculates the grade average
 
 Author: Cayley Zung, 
 School: CHHS

@@ -1,7 +1,7 @@
 
 /*
 
-Program: RectanglePerimeter.java          Last Date of this Revision: September 13, 2022
+Program: RectanglePerimeter.java          Last Date of this Revision: September 14, 2022
 
 Purpose: Outputs total distance of a race
 
@@ -20,7 +20,7 @@ public class RectanglePerimeter {
 		int l = 13;
 		int perimeter = 2*w + 2*l;
 		
-		System.out.println("The perimeter of this rectangle is" + perimeter);
+		System.out.println("The perimeter of this rectangle is " + perimeter + " units.");
 
 	}
 

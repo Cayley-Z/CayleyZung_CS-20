@@ -23,16 +23,16 @@ public class Distance2 {
 		int sec;
 		int third;
 		
-		System.out.println("Input a whole number distance for the first segment (in km): ");
+		System.out.println("Input a WHOLE NUMBER distance for the FIRST segment (in km): \n");
 		first = input.nextInt();
-		System.out.println("Input a whole number distance for the second segment (in km): ");
+		System.out.println("\nInput a WHOLE NUMBER distance for the SECOND segment (in km): \n");
 		sec = input.nextInt();
-		System.out.println("Input a whole number distance for the third segment (in km): ");
+		System.out.println("\nInput a WHOLE NUMBER distance for the THIRD segment (in km): \n");
 		third = input.nextInt();
 		
 		int distance = first + sec + third;
 		
-		System.out.println("The distance of your race is " + distance + " km long.");
+		System.out.println("\nThe distance of your race is " + distance + " km long.");
 
 	}
 
