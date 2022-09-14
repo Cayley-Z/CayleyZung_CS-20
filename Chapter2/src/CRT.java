@@ -40,7 +40,7 @@ public class CRT {
 					System.out.println("Sure, this is basic, and a good refresher, but really? Should I put ANYTHING inside this?");
 					System.out.println("I NEED SOMETHING TO LOOK AT BECAUSE I AM A WHOLE CHILD. EYEBALLS NEED CONSTANT ENTERTAINMENT.");
 					System.out.println("WHERE IS THING FOR ME TO LOOK AT. :sobbing_emoji: :sobbing_emoji: :sobbing_emoji:");
-					System.out.println("And before you ask, yes colons were intentional");
+					System.out.println("And before you ask, yes the colons were intentional");
 					
 				}
 			

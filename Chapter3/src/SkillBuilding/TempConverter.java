@@ -2,9 +2,9 @@ package SkillBuilding;
 
 /*
 
-Program: RectanglePerimeter.java          Last Date of this Revision: September 14, 2022
+Program: TempConverter.java          Last Date of this Revision: September 14, 2022
 
-Purpose: Outputs total distance of a race
+Purpose: Outputs fahrenheit temperature in celcius
 
 Author: Cayley Zung, 
 School: CHHS
