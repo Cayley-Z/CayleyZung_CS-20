@@ -21,8 +21,7 @@ public class TempConverter {
 		Scanner input = new Scanner(System.in);
 		
 		double fahren;
-		
-		
+		//
 		System.out.println("RACE LENGTH PROGRAM\n");
 		System.out.println("-----------------------------------------");
 		System.out.println("Input a WHOLE NUMBER distance for the FIRST segment (in km): \n");
