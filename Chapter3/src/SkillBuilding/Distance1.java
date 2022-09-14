@@ -17,10 +17,10 @@ public class Distance1 {
 	public static void main(String[] args) {
 		
 		// Int
-		float First = 12.2f;
-		float Sec = 10.6f;
-		float Third = 5.8f;
-		float distance = First + Sec + Third;
+		double First = 12.2;
+		double Sec = 10.6;
+		double Third = 5.8;
+		double distance = First + Sec + Third;
 		
 		System.out.println("RACE LENGTH PROGRAM\n");
 		System.out.println("-----------------------------------------");
