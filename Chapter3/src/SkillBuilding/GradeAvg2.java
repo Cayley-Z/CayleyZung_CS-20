@@ -51,58 +51,58 @@ public class GradeAvg2 {
 
 /* Screen Dump
 
-	AVERAGE GRADE PROGRAM
+AVERAGE GRADE PROGRAM
 	
-	-----------------------------------------
+-----------------------------------------
 	
-	Input a WHOLE NUMBER for the FIRST grade: 
+Input a WHOLE NUMBER for the FIRST grade: 
 	
-	50
+50
 	
-	Input a WHOLE NUMBER for the SECOND grade: 
+Input a WHOLE NUMBER for the SECOND grade: 
 	
-	50
+50
 	
-	Input a WHOLE NUMBER for the THIRD grade: 
+Input a WHOLE NUMBER for the THIRD grade: 
 	
-	54
+54
 	
-	Input a WHOLE NUMBER for the FOURTH grade: 
+Input a WHOLE NUMBER for the FOURTH grade: 
 	
-	44
+44
 	
-	Input a WHOLE NUMBER for the FIFTH grade: 
+Input a WHOLE NUMBER for the FIFTH grade: 
 	
-	60
+60
 	
-	The average of the grades is 51.
+The average of the grades is 51.
 	
-	
-	
-	AVERAGE GRADE PROGRAM
 
-	-----------------------------------------
 	
-	Input a WHOLE NUMBER for the FIRST grade: 
+AVERAGE GRADE PROGRAM
+
+-----------------------------------------
 	
-	99
+Input a WHOLE NUMBER for the FIRST grade: 
 	
-	Input a WHOLE NUMBER for the SECOND grade: 
+99
 	
-	100
+Input a WHOLE NUMBER for the SECOND grade: 
 	
-	Input a WHOLE NUMBER for the THIRD grade: 
+100
 	
-	100
+Input a WHOLE NUMBER for the THIRD grade: 
 	
-	Input a WHOLE NUMBER for the FOURTH grade: 
+100
 	
-	100
+Input a WHOLE NUMBER for the FOURTH grade: 
 	
-	Input a WHOLE NUMBER for the FIFTH grade: 
+100
 	
-	100
+Input a WHOLE NUMBER for the FIFTH grade: 
 	
-	The average of the grades is 99.
+100
+	
+The average of the grades is 99.
 
  */

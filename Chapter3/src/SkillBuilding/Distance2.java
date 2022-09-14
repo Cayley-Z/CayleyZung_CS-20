@@ -43,21 +43,21 @@ public class Distance2 {
 
 /* Screen Dump
 
-	RACE LENGTH PROGRAM
+RACE LENGTH PROGRAM
 	
-	-----------------------------------------
-	Input a WHOLE NUMBER distance for the FIRST segment (in km): 
+-----------------------------------------
+Input a WHOLE NUMBER distance for the FIRST segment (in km): 
 	
-	20
+20
 	
-	Input a WHOLE NUMBER distance for the SECOND segment (in km): 
+Input a WHOLE NUMBER distance for the SECOND segment (in km): 
 	
-	3
+3
 	
-	Input a WHOLE NUMBER distance for the THIRD segment (in km): 
+Input a WHOLE NUMBER distance for the THIRD segment (in km): 
 	
-	4
+4
 	
-	The distance of your race is 27 km long.
+The distance of your race is 27 km long.
 
  */

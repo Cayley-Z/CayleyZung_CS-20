@@ -23,7 +23,7 @@ public class RectanglePerimeter {
 		
 		System.out.println("RECTANGLE PERIMETER PROGRAM\n");
 		System.out.println("-----------------------------------------");
-		System.out.println("The perimeter of this rectangle is " + perimeter + " units.");
+		System.out.println("\nThe perimeter of this rectangle is " + perimeter + " units.");
 
 	}
 
@@ -31,9 +31,10 @@ public class RectanglePerimeter {
 
 /* Screen Dump
 
-	RECTANGLE PERIMETER PROGRAM
+RECTANGLE PERIMETER PROGRAM
 	
-	-----------------------------------------
-	The perimeter of this rectangle is 34 units.
+-----------------------------------------
+
+The perimeter of this rectangle is 34 units.
 
  */

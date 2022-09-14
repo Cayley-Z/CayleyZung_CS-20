@@ -34,10 +34,10 @@ public class Distance1 {
 
 /* Screen Dump
 
-	RACE LENGTH PROGRAM
+RACE LENGTH PROGRAM
 	
-	-----------------------------------------
+-----------------------------------------
 	
-	The length of the race is 28.599998 km long.
+The length of the race is 28.599998 km long.
 
  */

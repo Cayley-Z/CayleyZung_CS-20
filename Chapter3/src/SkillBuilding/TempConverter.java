@@ -37,24 +37,24 @@ public class TempConverter {
 
 /* Screen Dump
 
-	FAHRENHEIT TO CELCIUS PROGRAM
+FAHRENHEIT TO CELCIUS PROGRAM
 	
-	-----------------------------------------
-	Input a temperature in FAHRENHEIGHT: 
+-----------------------------------------
+Input a temperature in FAHRENHEIGHT: 
 	
-	66
+66
 	
-	Your temperature in CELCIUS is 18.88888888888889.
+Your temperature in CELCIUS is 18.88888888888889.
 	
 	
 	
-	FAHRENHEIT TO CELCIUS PROGRAM
+FAHRENHEIT TO CELCIUS PROGRAM
 	
-	-----------------------------------------
-	Input a temperature in FAHRENHEIGHT: 
+-----------------------------------------
+Input a temperature in FAHRENHEIGHT: 
 	
-	0
+0
 	
-	Your temperature in CELCIUS is -17.77777777777778.
+Your temperature in CELCIUS is -17.77777777777778.
 
  */
