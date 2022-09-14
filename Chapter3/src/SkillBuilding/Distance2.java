@@ -1,3 +1,4 @@
+package SkillBuilding;
 
 /*
 
@@ -23,6 +24,8 @@ public class Distance2 {
 		int sec;
 		int third;
 		
+		System.out.println("RACE LENGTH PROGRAM\n");
+		System.out.println("-----------------------------------------");
 		System.out.println("Input a WHOLE NUMBER distance for the FIRST segment (in km): \n");
 		first = input.nextInt();
 		System.out.println("\nInput a WHOLE NUMBER distance for the SECOND segment (in km): \n");
@@ -37,3 +40,24 @@ public class Distance2 {
 	}
 
 }
+
+/* Screen Dump
+
+	RACE LENGTH PROGRAM
+	
+	-----------------------------------------
+	Input a WHOLE NUMBER distance for the FIRST segment (in km): 
+	
+	20
+	
+	Input a WHOLE NUMBER distance for the SECOND segment (in km): 
+	
+	3
+	
+	Input a WHOLE NUMBER distance for the THIRD segment (in km): 
+	
+	4
+	
+	The distance of your race is 27 km long.
+
+ */

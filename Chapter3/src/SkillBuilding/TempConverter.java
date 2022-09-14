@@ -1,3 +1,4 @@
+package SkillBuilding;
 
 /*
 
@@ -11,16 +12,16 @@ Course: Computer Programming 20
  
 
 */
-public class RectanglePerimeter {
+import java.util.Scanner;
+
+public class TempConverter {
 
 	public static void main(String[] args) {
 		
-		// Int
-		int w = 4;
-		int l = 13;
-		int perimeter = 2*w + 2*l;
+		Scanner input = new Scanner(System.in);
 		
-		System.out.println("The perimeter of this rectangle is " + perimeter + " units.");
+		double fahren;
+		double celcius;
 
 	}
 

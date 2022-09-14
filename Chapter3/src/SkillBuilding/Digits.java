@@ -1,3 +1,4 @@
+package SkillBuilding;
 
 /*
 
@@ -21,6 +22,8 @@ public class Digits {
 		
 		int n;
 		
+		System.out.println("DIGITS PROGRAM\n");
+		System.out.println("-----------------------------------------");
 		System.out.println("Please input a WHOLE, 2 DIGIT NUMBER: \n");
 		n = input.nextInt();
 		
@@ -32,3 +35,16 @@ public class Digits {
 	}
 
 }
+
+/* Screen Dump
+
+	DIGITS PROGRAM
+	
+	-----------------------------------------
+	Please input a WHOLE, 2 DIGIT NUMBER: 
+	
+	43
+	
+	The number in the ONES digit is 3, and the number in the TENS digit is 4.
+
+ */

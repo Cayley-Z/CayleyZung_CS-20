@@ -1,3 +1,4 @@
+package SkillBuilding;
 
 /*
 
@@ -21,10 +22,22 @@ public class Distance1 {
 		float Third = 5.8f;
 		float distance = First + Sec + Third;
 		
-		System.out.println("The length of the race is " + distance + " km long.");
+		System.out.println("RACE LENGTH PROGRAM\n");
+		System.out.println("-----------------------------------------");
+		System.out.println("\nThe length of the race is " + distance + " km long.");
 		
 		// IDK why, but these values REFUSE to add up to a tenth, and will INSIST on being .99999 instead
 		
 	}
 
 }
+
+/* Screen Dump
+
+	RACE LENGTH PROGRAM
+	
+	-----------------------------------------
+	
+	The length of the race is 28.599998 km long.
+
+ */
