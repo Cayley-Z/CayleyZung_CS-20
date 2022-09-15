@@ -10,7 +10,7 @@ Author: Cayley Zung,
 School: CHHS
 Course: Computer Programming 20
  
-
+3
 */
 import java.util.Scanner;
 import java.text.DecimalFormat;
@@ -90,6 +90,37 @@ Please input how much you'll be paying in cash:
 
 You will be paying $20.00 in cash
 Here is your CHANGE: $5.32
+
+Thank you for ordering!
+
+
+
+ORDERING PROGRAM
+
+-----------------------------------------
+
+Please input how many BURGERS you'd like to order: 
+
+14
+
+Please input how many FRIES you'd like to order: 
+
+300
+
+Please input how many SODAS you'd like to order: 
+
+24
+
+Here is your TOTAL BEFORE TAX: $374.42
+Here is your TAX: $24.34
+Here is your FINAL TOTAL: $398.76
+
+Please input how much you'll be paying in cash: 
+
+400
+
+You will be paying $400.00 in cash
+Here is your CHANGE: $1.24
 
 Thank you for ordering!
 
