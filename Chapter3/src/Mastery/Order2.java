@@ -10,7 +10,7 @@ Author: Cayley Zung,
 School: CHHS
 Course: Computer Programming 20
  
-3
+
 */
 import java.util.Scanner;
 import java.text.DecimalFormat;
