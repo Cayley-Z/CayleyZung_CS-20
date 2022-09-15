@@ -55,13 +55,13 @@ public class Spending {
 		
 		System.out.print("\nCATEGORIES        BUDGET\n");
 		
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
-		System.out.print("\nFood              " + food);
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
+		System.out.print("\nFood              " + dc.format(food));
 		
 	}
 
