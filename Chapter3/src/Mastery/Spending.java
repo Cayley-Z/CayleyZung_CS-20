@@ -2,9 +2,9 @@ package Mastery;
 
 /*
 
-Program: Spending.java          Last Date of this Revision: September 15, 2022
+Program: Spending.java          Last Date of this Revision: September 16, 2022
 
-Purpose: 
+Purpose: Calculates percent of budget from money spent
 
 Author: Cayley Zung, 
 School: CHHS
